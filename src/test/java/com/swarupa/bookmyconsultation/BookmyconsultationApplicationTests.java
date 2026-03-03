@@ -1,4 +1,4 @@
-package com.upgrad.bookmyconsultation;
+package com.swarupa.bookmyconsultation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
